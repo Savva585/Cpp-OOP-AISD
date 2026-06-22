@@ -1,0 +1,24 @@
+# Compiled files
+*.exe
+*.dll
+*.bin
+*.obj
+*.pdb
+
+# IDE
+.idea/
+.vscode/
+*.suo
+*.user
+
+# Build
+Debug/
+Release/
+bin/
+obj/
+
+# OS
+.DS_Store
+Thumbs.db
+*.cache
+*.log
